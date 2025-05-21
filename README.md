@@ -1,2 +1,1 @@
-# fsdfsdf
-Автоматически созданный репозиторий: fsdfsdf
+Hello epta!
